@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-task-tracker",
+      "title": "FastAPI Task Tracker",
+      "description": "Build a small task-tracking API using FastAPI and practice routes, validation, and JSON responses.",
+      "path": "assignments/fastapi-task-tracker",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
